@@ -10,23 +10,23 @@ body {
     background-color: #d9dcd6; /*Site background color*/
 }
 
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c; /*Makes top menu bar teal*/
     color: #ffffff;
 }
 
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6; /*changes the "seo" in Horiseon to offwhite*/
 }
 
-.header nav {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right; /*Floats menu items right*/
@@ -34,11 +34,11 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {
+header nav ul {
     list-style-type: none;
 }
 
-.header nav ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
     
@@ -69,13 +69,13 @@ a {
     margin-left: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.content section {
+main section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -84,11 +84,11 @@ a {
     color: #ffffff; /*Content block font color*/
 }
 
-.content img {
+main img {
     max-height: 200px; /*Content block images size*/
 }
 
-.content h2 { /*Content block headers style*/
+main h2 { /*Content block headers style*/
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -120,13 +120,13 @@ a {
     max-width: 150px;
 }
 
-.footer { /*Style footer*/
+footer { /*Style footer*/
     padding: 30px;
     clear: both;/*Clears sidebar floats*/
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {/*Styles footer header*/
+footer h4 {/*Styles footer header*/
     font-size: 20px;
 }
