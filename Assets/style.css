@@ -54,7 +54,7 @@ figure {/*Adds a photo banner to site*/
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");/*Photo for photo banner*/
+    background-image: url("../Assets/images/digital-marketing-meeting.jpg");/*Photo for photo banner*/
     background-size: cover;
     background-position: center;
 }
