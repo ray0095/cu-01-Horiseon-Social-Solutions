@@ -93,7 +93,7 @@ main h2 { /*Content block headers style*/
     font-size: 36px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both; /*Clears floats from content section*/
@@ -104,17 +104,17 @@ main h2 { /*Content block headers style*/
     background-color: #2589bd; /*Sidebar background color*/
 }
 
-.benefits section {
+aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefits h3 { /*Styles sidebar headers*/
+aside h3 { /*Styles sidebar headers*/
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefits img { /*Styles sidebar images*/
+aside img { /*Styles sidebar images*/
     display: block;
     margin: 10px auto;
     max-width: 150px;
