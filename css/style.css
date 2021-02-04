@@ -109,12 +109,12 @@ aside section {
     color: #ffffff;
 }
 
-aside h3 { /*Styles sidebar headers*/
+aside section h3 { /*Styles sidebar headers*/
     margin-bottom: 10px;
     text-align: center;
 }
 
-aside img { /*Styles sidebar images*/
+aside section img { /*Styles sidebar images*/
     display: block;
     margin: 10px auto;
     max-width: 150px;
