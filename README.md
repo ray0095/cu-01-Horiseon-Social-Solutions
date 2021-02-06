@@ -1,4 +1,4 @@
-# homework-1
+# Horiseon Social Solutions Website
 
 ## Description 
 The following files contain the necessary assets to deploy a functional website for Horiseon Social Solutions. The site has been optimized using inudstry recognized best practices for SEO and semantic HTML5. Images have all been tagged with alternative text or other methods to ensure site accessibility. 
