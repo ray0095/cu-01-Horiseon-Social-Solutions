@@ -27,11 +27,7 @@ To use this site for your own website or your client's website, follow these ste
 
 Here's a screenshot of what this site looks like:
 
-<<<<<<< HEAD
 ![Screenshot of site](assets/images/site-screen-shot.png)
-=======
-![screenshot](../Assets/images/site-screen-shot.png)
->>>>>>> 5d0ad9d14ad4d15b18f3542be8c6503e0f2751c6
 
 ## Features
 
